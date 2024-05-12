@@ -1,0 +1,18 @@
+type,name,parent,size
+file,files_and_dirs.csv,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,1975
+file,files_and_dirs.json,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,4024
+file,db.json,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,45
+directory,File_edit,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,10603
+file,Seve_file_cvs.py,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit,541
+file,Create_new_file_json.py,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit,847
+directory,__pycache__,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit,6470
+file,Recurs_direct.cpython-311.pyc,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit/__pycache__,3889
+file,Seve_file_cvs.cpython-311.pyc,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit/__pycache__,1341
+file,Create_new_file_json.cpython-311.pyc,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit/__pycache__,1240
+file,Recurs_direct.py,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW/File_edit,2745
+file,db.csv,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,27
+file,Task2.py,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,446
+file,Task1.py,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,2745
+file,res.txt,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,354
+file,res.json,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,490
+file,files_and_dirs.pickle,/Users/aleksejivanov/Documents/Учебная/diving into python/Lesson8HW,983

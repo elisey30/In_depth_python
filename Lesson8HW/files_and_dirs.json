@@ -1,0 +1,104 @@
+[
+    {
+        "type": "file",
+        "name": "files_and_dirs.csv",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 1975
+    },
+    {
+        "type": "file",
+        "name": "files_and_dirs.json",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 4024
+    },
+    {
+        "type": "file",
+        "name": "db.json",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 45
+    },
+    {
+        "type": "directory",
+        "name": "File_edit",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 10603
+    },
+    {
+        "type": "file",
+        "name": "Seve_file_cvs.py",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit",
+        "size": 541
+    },
+    {
+        "type": "file",
+        "name": "Create_new_file_json.py",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit",
+        "size": 847
+    },
+    {
+        "type": "directory",
+        "name": "__pycache__",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit",
+        "size": 6470
+    },
+    {
+        "type": "file",
+        "name": "Recurs_direct.cpython-311.pyc",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit/__pycache__",
+        "size": 3889
+    },
+    {
+        "type": "file",
+        "name": "Seve_file_cvs.cpython-311.pyc",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit/__pycache__",
+        "size": 1341
+    },
+    {
+        "type": "file",
+        "name": "Create_new_file_json.cpython-311.pyc",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit/__pycache__",
+        "size": 1240
+    },
+    {
+        "type": "file",
+        "name": "Recurs_direct.py",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW/File_edit",
+        "size": 2745
+    },
+    {
+        "type": "file",
+        "name": "db.csv",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 27
+    },
+    {
+        "type": "file",
+        "name": "Task2.py",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 446
+    },
+    {
+        "type": "file",
+        "name": "Task1.py",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 2745
+    },
+    {
+        "type": "file",
+        "name": "res.txt",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 354
+    },
+    {
+        "type": "file",
+        "name": "res.json",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 490
+    },
+    {
+        "type": "file",
+        "name": "files_and_dirs.pickle",
+        "parent": "/Users/aleksejivanov/Documents/\u0423\u0447\u0435\u0431\u043d\u0430\u044f/diving into python/Lesson8HW",
+        "size": 983
+    }
+]
